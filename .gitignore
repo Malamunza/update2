@@ -6,5 +6,4 @@
 .\#*
 *~
 \#*
-tools/bin
-tools/dist
+dist
